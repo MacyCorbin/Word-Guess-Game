@@ -1,0 +1,65 @@
+body {
+    background: url('https://cdn.experienceoz.com.au/assets/organisation/5252/banner/60184.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+   
+  
+
+}
+
+h1{
+    color: #238d09;
+    font-family: 'Aclonica', sans-serif;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+h2{
+    color: #238d09;
+    font-family: 'Aclonica', sans-serif;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.content {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    font-family: 'Alegreya SC', serif;
+    text-align: center;
+    margin-top: 40px;
+    width: 600px;
+    background-color: rgba(255, 208, 1, 0.8);
+    border-radius: 10px;
+    border-color: 7px solid #238d09;
+    padding: 20px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-46%, -50%);
+
+}
+
+.alignText{
+    text-align: left;
+    padding-left: 15px;
+}
+
+#currentWord {
+    letter-spacing: 10px;
+}
+
+h3 {
+    text-align: left;
+    font-weight: bold;
+    color: #238d09;
+}
+
+
+
+.gameScore{
+    margin: 20px 0px 20px 0px;
+}
+
+.columnAdjust{
+    padding-left: 0px;
+}
